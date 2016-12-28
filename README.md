@@ -1,2 +1,2 @@
-# waddotaxis
+# Waddington Taxis
 The Waddington Taxis website
